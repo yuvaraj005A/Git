@@ -1,6 +1,5 @@
 # git course
 IT is new git file
 
+# This is bug feature
 # This is change from feature branch
-# This is feature 2.0
-# hello feature3
