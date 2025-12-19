@@ -8,3 +8,8 @@ conflict irukku
 main ->new-bug resolve conflict 
 new-bug ->main (pull request)
 
+<<<<<<< HEAD
+=======
+# This is bug feature
+# This is change from feature branch
+>>>>>>> main
